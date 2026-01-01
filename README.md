@@ -4,6 +4,14 @@ This project is a Web Traffic Analytics Dashboard created using Power BI with da
 ## Overview
 This dashboard provides a detailed view of website performance, focusing on user interactions across different devices, traffic sources, and regions. It is designed to help website owners and digital marketers understand user behavior, identify potential issues, and make data-driven decisions to improve engagement and optimize the user experience.
 
+
+ ![Dashboard Overview](./img/report2.png)
+ 
+ ![Dashboard Overview](./img/report3.png)
+ 
+ ![Dashboard Overview](./img/report1.png)
+
+
 ## Key Metrics Tracked:
 **Session Duration:** Total and average time users spend on the website.   
 **Bounce Rate:** The percentage of single-page sessions (where users left without interacting further).  
@@ -41,7 +49,3 @@ Regional Analysis: Compares the performance across regions (North, South, East, 
 **6. Device and Browser Analysis**  
 Device Type Usage: Compares how desktop, mobile, and tablet users engage with the website.  
 Browser-Specific Metrics: Highlights bounce rates and session durations by browser type to identify any platform-specific issues.  
-
- ![Dashboard Overview](./img/report2.png)
- ![Dashboard Overview](./img/report3.png)
- ![Dashboard Overview](./img/report1.png)
